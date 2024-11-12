@@ -14,10 +14,6 @@ export function LoveMatchLandingComponent() {
             <Heart className="h-8 w-8 text-red-500" />
             <span className="text-2xl font-bold text-gray-800">LoveMatch</span>
           </div>
-          {/* <div className="space-x-4">
-            <Button variant="ghost">Log In</Button>
-            <Button>Sign Up</Button>
-          </div> */}
         </nav>
       </header>
 
@@ -59,9 +55,6 @@ export function LoveMatchLandingComponent() {
           <p className="text-xl text-gray-600 mb-8">
             Join LoveMatch today and start your journey to happiness
           </p>
-          {/* <Button size="lg" className="bg-red-500 hover:bg-red-600">git remote add origin https://github.com/JoemariObrial/LoveCalculator.git
-            Create Your Profile
-          </Button> */}
         </section>
       </main>
 
