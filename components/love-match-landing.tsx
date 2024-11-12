@@ -25,7 +25,7 @@ export function LoveMatchLandingComponent() {
             Discover love with our intelligent matching algorithm
           </p>
           <Button size="lg" className="bg-red-500 hover:bg-red-600">
-            <Link href={"./valentine"}> Start Matching Now</Link>
+            <Link href="/valentine">Start Matching Now</Link>
           </Button>
         </section>
 
