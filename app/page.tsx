@@ -2,7 +2,6 @@
 
 import { Heart, Users, MessageCircle, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { useRouter } from "next/navigation";
 import Link from "next/link";
 
 export function LoveMatchLandingComponent() {
