@@ -39,7 +39,7 @@ export function ValentineLoveCalculatorComponent() {
         <CardContent className="p-6 space-y-6">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-red-600 mb-2">Love Match</h2>
-            <p className="text-pink-600">Find your Valentine's match!</p>
+            <p className="text-pink-600">Happy Valentine's Day!</p>
           </div>
 
           <div className="space-y-4">

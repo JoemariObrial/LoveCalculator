@@ -19,10 +19,10 @@ export function LoveMatchLandingComponent() {
       <main className="container mx-auto px-4 py-12">
         <section className="text-center">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
-            Find Your Perfect Match
+            Test Your Love Compatibility
           </h1>
           <p className="text-xl text-gray-600 mb-8">
-            Discover love with our intelligent matching algorithm
+            See how well you and your partner align with our unique love
           </p>
           <Button size="lg" className="bg-red-500 hover:bg-red-600">
             <Link href="/love">Start Matching Now</Link>
