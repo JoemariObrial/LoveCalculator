@@ -66,7 +66,15 @@ export function LoveMatchLandingComponent() {
   );
 }
 
-function FeatureCard({ icon, title, description }) {
+function FeatureCard({
+  icon,
+  title,
+  description,
+}: {
+  icon: any;
+  title: any;
+  description: any;
+}) {
   return (
     <div className="bg-white p-6 rounded-lg shadow-md text-center">
       <div className="flex justify-center mb-4">{icon}</div>
