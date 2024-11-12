@@ -38,7 +38,7 @@ export function LoveMatchLandingComponent() {
           <FeatureCard
             icon={<Search className="h-12 w-12 text-red-500" />}
             title="Smart Matching"
-            description="Our algorithm finds your most compatible matches"
+            description="Match with your ideal Valentine and enjoy the perfect connection."
           />
           <FeatureCard
             icon={<MessageCircle className="h-12 w-12 text-red-500" />}
