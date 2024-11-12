@@ -1,4 +1,4 @@
-import { ValentineLoveCalculatorComponent } from "@/valentines/valentine-love-calculator";
+import { ValentineLoveCalculatorComponent } from "@/components/valentines/valentine-love-calculator";
 import React from "react";
 
 function Love() {
