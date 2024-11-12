@@ -38,9 +38,7 @@ export function ValentineLoveCalculatorComponent() {
       <Card className="w-full max-w-md bg-white/80 backdrop-blur-sm shadow-lg rounded-2xl overflow-hidden border-2 border-pink-300">
         <CardContent className="p-6 space-y-6">
           <div className="text-center">
-            <h2 className="text-3xl font-bold text-red-600 mb-2">
-              Love Calculator
-            </h2>
+            <h2 className="text-3xl font-bold text-red-600 mb-2">Love Match</h2>
             <p className="text-pink-600">Find your Valentine's match!</p>
           </div>
 
